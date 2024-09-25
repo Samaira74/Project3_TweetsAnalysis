@@ -1,2 +1,2 @@
 # Project3_TweetsAnalysis
-The objective is to detect hate speech in tweets, classifying them as either containing racist/sexist content or not.
+The objective of the this project is to detect hate speech in tweets, classifying them as either containing racist/sexist content or not. A labeled dataset of 31,962 tweets is provided, where '1' indicates hate speech and '0' indicates otherwise. The aim is to train a model on this data to predict labels for a test dataset. The data is in CSV format, including tweet IDs, labels, and tweet text.
